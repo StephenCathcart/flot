@@ -32,3 +32,5 @@ flot.render(p)
 ```
 
 Running this program will create a corresponding basic-flot.html which you can open in your browser.
+
+![Flt](/example/example.png)
