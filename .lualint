@@ -1,0 +1,4 @@
+column_limit: 125
+align_parameter: false
+break_after_functiondef_lp: true
+double_quote_to_single_quote: true
