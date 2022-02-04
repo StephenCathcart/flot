@@ -10,4 +10,4 @@ description = {
     license = 'MIT'
 }
 dependencies = {'lua >= 5.1'}
-build = {type = 'builtin', modules = {log = 'flot.lua'}}
+build = {type = 'builtin', modules = {flot = 'flot.lua'}}
